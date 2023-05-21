@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "티벳어 및 티벳불교 블로그"
+title                    : "대승불교"
 title_separator          : "-"
-subtitle                 : 티벳어와 티벳불교를 공부하는 불자입니다. # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "무명"
-description              : # ""
+description              : "티벳어와 티벳불교를 배우는 불자입니다."
 url                      : "https://marikppa.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "무명"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "인도에서 티벳어와 대승불교를 배우는 불자입니다."
   location         : "Somewhere"
   email            :
   links:
